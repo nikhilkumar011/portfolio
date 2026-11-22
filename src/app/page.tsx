@@ -10,6 +10,8 @@ import Projects from "@/components/Projects";
 import Journey from "@/components/Journey";
 import Contact from "@/components/Contact";
 
+//home
+
 export default function Home() {
   return (
     <>
